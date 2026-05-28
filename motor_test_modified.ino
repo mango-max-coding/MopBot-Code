@@ -1,3 +1,4 @@
+//upload to RedBot mainboard connected to Raspberry Pi via usb
 
 #include <Servo.h>
 Servo sweep;
