@@ -1,3 +1,5 @@
+#upload to Raspberry Pi itself
+
 import serial
 import time
 import threading
